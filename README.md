@@ -7,17 +7,29 @@ Die Funktionsweisen der Funktionen sind den beigefügten Kommentaren zu entnehme
 ## Aufbau der Bibliothek
 
 fbs/
+
 ├── README.md
+
 ├── euklidisch_anwendung.py
+
 ├── hamming_anwendung.py
+
 ├── fallbasen/
+
 │   ├── kino.csv
+
 │   ├── kino.csv
+
 ├── fallbasen/
+
 ├── __init__.py
+
 ├── allgemein.py
+
 ├── euklidische_distanz.py
+
 ├── hamming_distanz.py
+
 
 
 ## Lizenz
