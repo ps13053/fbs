@@ -22,13 +22,13 @@ fbs/
 
 ├── fallbasen/
 
-├── __init__.py
+│   ├── __init__.py
 
-├── allgemein.py
+│   ├── allgemein.py
 
-├── euklidische_distanz.py
+│   ├── euklidische_distanz.py
 
-├── hamming_distanz.py
+│   ├── hamming_distanz.py
 
 
 
